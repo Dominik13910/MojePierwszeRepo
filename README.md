@@ -1,3 +1,3 @@
 # MojePierwszeRepo
 
-#Repozytorium stworzone na potrzeby zaliczenia.
+# Repozytorium stworzone na potrzeby zaliczenia.
